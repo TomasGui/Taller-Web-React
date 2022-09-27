@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.centro {
+  top: 50%;
+  transform: translateY(-50%);
+  margin-top: 1rem !important;
+  border-radius: 30px;
+  opacity: 0.8;
+  background-color: white;
+  border-color: black;
+  border: black;
+  margin-top: 1rem !important;
+  border-radius: 30px;
+}
+
+.carousel-caption h2 {
+  font-size: 40px;
+  width: auto;
+  color: black;
+  margin: auto;
+  padding: auto;
+}
+
+.carousel-caption p {
+  font-size: 30px;
+  width: auto;
+  color: black;
+  margin: auto;
+  padding: auto;
+}
+
+.w-100 {
+  width: 100%;
+  padding: 10px;
+  border-radius: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.d-block {
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: block !important;
+  padding: auto;
+}
+
+.fondo_coin_1 {
+  background-image: url(https://cdn.pixabay.com/photo/2018/12/22/22/19/bitcoin-3890348_1280.jpg);
+  margin-top: 1rem !important;
+  border-radius: 30px;
+}
+
+.fondo_monto {
+  background-color: url(https://cdn.pixabay.com/photo/2018/12/22/22/19/bitcoin-3890348_1280.jpg);
+  margin-top: 1rem !important;
+  border-radius: 30px;
+}
+
+.fondo_blanco {
+  background-color: white;
+  border-radius: 20px;
+  opacity: 0.9;
+  height: auto;
+  padding: 3rem !important;
+}
+
+.mt-4 {
+  opacity: 0.8;
+  background-color: white;
+  border-color: black;
+  border: black;
+  margin-top: 1rem !important;
+  border-radius: 30px;
+}
+
+.mt-6 {
+  background-image: url(https://cdn.pixabay.com/photo/2018/12/22/22/19/bitcoin-3890348_1280.jpg);
+  margin-top: 1rem !important;
+  border-radius: 30px;
+  opacity: 1;
+  background-color: white;
+  border-color: black;
+  border: black;
+  margin-top: 1rem !important;
+  border-radius: 30px;
+}
+
+.h1 {
+  background-color: white;
+}
+
+.mt-5 {
+  background-image: url(https://cdn.pixabay.com/photo/2018/12/22/22/19/bitcoin-3890348_1280.jpg);
+  margin-top: 1rem !important;
+  border-radius: 30px;
+}
+
+.p-5 {
+  background-color: white;
+  border-radius: 20px;
+  opacity: 0.9;
+  height: auto;
+  padding: 3rem !important;
+}
+
+.form-control.text-center {
+  border: 0px;
+}
+
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
